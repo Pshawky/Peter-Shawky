@@ -1,9 +1,7 @@
 # Task-2-
 
 
-
-
-Features To Be tested:
+## Features To Be tested:
 
 
 - Chart of Accounts: verify if a master account can have a hierarchy of detail accounts underneath it. This allows similar account types to be grouped into one master account.
@@ -21,3 +19,52 @@ Features To Be tested:
  - Simple Scheduled Transaction Import
  - Multi Currency TransactionImport
  - Importing Scheduled Action_should Set By Days
+ 
+ ## This is a mind map on all possible app paths to be tested 
+Setting up the user preference 
+Main Menu
+Book
+Book Nummer Select
+Recent
+All
+Favorite
+Insert button
+Account Name
+Currency 
+Account type	
+Drop down list
+Account details
+Place holder account
+Book managing 
+Open
+Internal storage
+Favorites 
+Report
+Pie chart
+Balance Sheet
+Linear Diagram
+Block Diagram view
+Summary
+Period	
+Monthly
+Quartal
+Yearly
+Planned Actions 
+Export
+Export target 		
+Dropbox
+Send to
+Owncloud
+Format
+CSV
+Separator 
+QIF
+XML
+Date
+Delete the booking after the export
+Settings
+Help und Feedback
+
+
+
+## Attached Automated tests where done using Espresso recorder in Android studio with Gradle 4.4 
