@@ -21,49 +21,48 @@
  - Importing Scheduled Action_should Set By Days
  
  ## This is a mind map on all possible app paths to be tested 
-Setting up the user preference 
-Main Menu
-Book
-Book Nummer Select
-Recent
-All
-Favorite
-Insert button
-Account Name
-Currency 
-Account type	
-Drop down list
-Account details
-Place holder account
-Book managing 
-Open
-Internal storage
-Favorites 
-Report
-Pie chart
-Balance Sheet
-Linear Diagram
-Block Diagram view
-Summary
-Period	
-Monthly
-Quartal
-Yearly
-Planned Actions 
-Export
-Export target 		
-Dropbox
-Send to
-Owncloud
-Format
-CSV
-Separator 
-QIF
-XML
-Date
-Delete the booking after the export
-Settings
-Help und Feedback
+- Setting up the user preference 
+- Main Menu
+  Book
+  Book Nummer Select
+  Recent
+- All
+- Favorite
+- Insert button
+- Account Name
+- Currency 
+- Account type	
+- Drop down list
+- Account details
+- Place holder account
+- Book managing 
+- Open
+- Internal storage
+- Favorites 
+- Report
+- Pie chart
+- Balance Sheet
+- Linear Diagram
+- Block Diagram view
+- Summary
+- Period	
+- Monthly
+- Quartal
+- Yearly
+- Planned Actions 
+- Export
+- Export target 		
+- Dropbox
+- Send to
+- Owncloud
+- Format
+  CSV > Separator
+  QIF 
+  XML
+- Date
+- Delete the booking after the export
+- Settings
+- Help und Feedback
 
 
 
